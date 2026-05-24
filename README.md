@@ -103,6 +103,6 @@ Each ghost has unique behavior:
 
 **Using Git:**
 ```bash
-git clone https://github.com/saifyousuf/pacman-java.git
+git clone https://github.com/Saifyousuf/Pac-Man-game.git
 cd pacman-java
 # Pac-Man-game
